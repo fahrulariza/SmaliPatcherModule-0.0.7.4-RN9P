@@ -22,3 +22,5 @@ Samsung Knox Bypass: If you have a rooted Samsung phone, this feature can help y
 High Volume Warning Disable: This feature deactivates the high-volume popup dialog.
 
 In conclusion, the Smali Patcher is an invaluable tool that can help you streamline tasks and improve your overall experience with your Android smartphone.
+
+https://xdaforums.com/t/module-smali-patcher-7-4.3680053/

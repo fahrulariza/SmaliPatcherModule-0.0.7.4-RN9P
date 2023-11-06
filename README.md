@@ -1,5 +1,5 @@
 # SmaliPatcherModule-0.0.7.4-Redmi Note 9 Pro (ID)
-The Smali Patcher provides a range of convenient features for Android smartphone users Redmi Note 9 Pro (ID) 14.0.1.0 (SZIDXM)
+**The Smali Patcher provides a range of convenient features for Android smartphone users Redmi Note 9 Pro (ID) 14.0.1.0 (SZIDXM)**
 
 including:
 
@@ -22,3 +22,5 @@ Samsung Knox Bypass: If you have a rooted Samsung phone, this feature can help y
 High Volume Warning Disable: This feature deactivates the high-volume popup dialog.
 
 In conclusion, the Smali Patcher is an invaluable tool that can help you streamline tasks and improve your overall experience with your Android smartphone.
+
+https://xdaforums.com/t/module-smali-patcher-7-4.3680053/

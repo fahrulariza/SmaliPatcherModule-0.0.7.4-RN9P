@@ -1,0 +1,8 @@
+id=fomey.smalipatcher
+name=Smali Patcher
+version=v0.0.7.4
+versionCode=1
+author=fOmeyyy
+description=Collection of framework patches.
+minMagisk=20200
+updateJson=https://raw.githubusercontent.com/fahrulariza/SmaliPatcherModule-0.0.7.4-RN9P/update/SmaliPatcherModule.json
